@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<projectSuggestions>
+<declaringtype type="com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords">
+<method isActive="true" isStatic="false" name="verifyElementPresent" type="java.lang.Object">
+<parameters useNamedArguments="false"/>
+<doc/>
+</method>
+</declaringtype>
+<declaringtype type="Script1625639994348">
+<property isActive="true" isStatic="false" name="GlobalVariable" type="java.lang.Object">
+<doc/>
+</property>
+<property isActive="true" isStatic="false" name="url" type="java.lang.Object">
+<doc/>
+</property>
+</declaringtype>
+<declaringtype type="saucedemo_automationsuite">
+<property isActive="true" isStatic="false" name="Runconfiguration" type="java.lang.Object">
+<doc/>
+</property>
+</declaringtype>
+<declaringtype type="java.lang.Object">
+<method isActive="true" isStatic="false" name="getProjectDir" type="java.lang.Object">
+<parameters useNamedArguments="false"/>
+<doc/>
+</method>
+<method isActive="true" isStatic="false" name="put" type="java.lang.Object">
+<parameters useNamedArguments="false"/>
+<doc/>
+</method>
+<property isActive="true" isStatic="false" name="varpassremarks" type="java.lang.Object">
+<doc/>
+</property>
+</declaringtype>
+<declaringtype type="Script1625742062672">
+<property isActive="true" isStatic="false" name="count" type="java.lang.Object">
+<doc/>
+</property>
+</declaringtype>
+<declaringtype type="HSSFWorkbook">
+<method isActive="true" isStatic="false" name="getNumberOfSheets" type="java.lang.Object">
+<parameters useNamedArguments="false"/>
+<doc/>
+</method>
+</declaringtype>
+</projectSuggestions>
