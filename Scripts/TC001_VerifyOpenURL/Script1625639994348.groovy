@@ -19,7 +19,7 @@ import java.lang.String as String
 try {
     CustomKeywords.'com.example.DateTime.startTime'()
 
-    // Open Browser & URL
+    //Open Browser & URL
     WebUI.openBrowser(GlobalVariable.TestData['OpenUrl'])
 
     WebUI.maximizeWindow()
